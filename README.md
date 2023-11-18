@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JagrajK
-- 👀 I’m interested in Neural Networks, Machine Learning and Monte Carlo algorithms
+- 👀 I’m interested in differential equations, Markov chains and machine learning
 - 🌱 I’m currently learning Mathematics at the University of Warwick
 - 📫 Email: jagraj.kahlon@warwick.ac.uk
 

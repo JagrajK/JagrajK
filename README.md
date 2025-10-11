@@ -7,6 +7,10 @@ MSc Mathematical Finance (2024 - 2025)
 BSc Mathematics with Honours (2021 - 2024)
 
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,pytorch,r,cpp,latex)](https://skillicons.dev)
+
+
 ## Reach out
 Email: jagraj.s.kahlon@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jagraj-kahlon/

@@ -3,9 +3,11 @@ Hi, I'm Jagraj!
 I'll be uploading projects I work on throughout my coding journey.
 I am interested in machine learning and solving maths problems and puzzles computationally.
 
+
 ## Education
 MSc Mathematical Finance (2024 - 2025)
 BSc Mathematics with Honours (2021 - 2024)
+
 
 ## Reach out
 Email: jagraj.s.kahlon@gmail.com

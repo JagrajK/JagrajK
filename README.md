@@ -1,5 +1,5 @@
 Hi, I'm Jagraj!
-I'll be uploading projects I work on for my coding journey.
+I'll be uploading projects I work on throughout my coding journey.
 I am interested in machine learning and solving maths problems and puzzles computationally.
 
 MSc Mathematical Finance (2024 - 2025)

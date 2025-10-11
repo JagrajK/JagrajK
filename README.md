@@ -6,7 +6,7 @@ MSc Mathematical Finance (2024 - 2025)
 
 BSc Mathematics with Honours (2021 - 2024)
 
-Email: jagraj.kahlon@warwick.ac.uk
+Email: jagraj.s.kahlon@gmail.com
 <!---
 JagrajK/JagrajK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

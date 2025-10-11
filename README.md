@@ -8,7 +8,7 @@ BSc Mathematics with Honours (2021 - 2024)
 
 
 ## Reach out
-Email: jagraj.s.kahlon@gmail.com
+Email: jagraj.s.kahlon@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jagraj-kahlon/
 <!---
 JagrajK/JagrajK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
